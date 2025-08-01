@@ -16,3 +16,8 @@ print("wunderbar")
 ```javascript
 console.log("W I O M");
 ```
+### Do List
+- [x] wake up
+- [x] brush
+- [ ] feed a dog
+- [ ] ask the dog about it's day
